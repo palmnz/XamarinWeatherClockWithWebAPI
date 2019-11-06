@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\1\jl\okhttp-2.4.0.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\10\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\11\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\12\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\13\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\2\jl\okio-1.5.0.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\3\jl\picasso-2.5.2.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\5\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\6\jl\support-annotations.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\7\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\8\jl\bin\classes.jar</Jar>
+    <Jar>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\9\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\12\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Workspace\dev\XamarinWeatherApp\XamarinWeatherApp\obj\Release\90\lp\12.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
